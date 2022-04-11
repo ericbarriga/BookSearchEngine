@@ -24,7 +24,7 @@ type User {
     }
 
     type Query {
-    me:User
+    somethingStupid:User
     }
 
     type Mutation {
