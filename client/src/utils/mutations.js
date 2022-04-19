@@ -1,4 +1,3 @@
-
 import { gql } from "@apollo/client";
 
 // mutation for logged in user
